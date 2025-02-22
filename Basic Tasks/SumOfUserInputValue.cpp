@@ -6,10 +6,10 @@ int main() //main starts
 {
 	int num1, num2, sum; // Declaring integer variables num1, num2, and sum
 
-    cout << "\n Sum of two numbers :\n"; // Outputting a message indicating sum of two numbers
-	cout << "-------------------------\n"; // Outputting a separator line   
+    cout<< "\n Sum of two numbers :\n"; // Outputting a message indicating sum of two numbers
+	cout<< "-------------------------\n"; // Outputting a separator line   
 
-    cout << " Input 1st number : "; // Prompting the user to input the first number
+    cout<< " Input 1st number : "; // Prompting the user to input the first number
 	cin >> num1 ; // Taking input for the first number from the user
 
 	cout << " Input 2nd number : "; // Prompting the user to input the second number

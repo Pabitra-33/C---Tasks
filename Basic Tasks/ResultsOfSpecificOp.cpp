@@ -1,12 +1,11 @@
-#include <iostream> // Including the input-output stream header file
+#include <iostream> //Including the input-output stream header file
 
-using namespace std; // Using the standard namespace
+using namespace std; //Using the standard namespace
 
 // Start of the main function
 int main() {
     cout << "\n\n Printing the result of some specific operation :\n"; // Outputting a message indicating specific operations
 	cout << "-----------------------------------------------\n"; // Outputting a separator line
-
     // Calculating and displaying results of specific mathematical expressions
     cout<< " Result of 1st expression is : "<< (-1+4*6) <<"\n";//Calculation: -1 + (4*6) = -1 + 24 = 23
     cout << " Result of 2nd expression is : "<< ((35+5)%7) <<"\n" ; // Calculation: (35+5) % 7 = 40 % 7 = 5 (remainder of 40/7)
